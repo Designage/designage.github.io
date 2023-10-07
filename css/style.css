@@ -480,9 +480,11 @@ footer p{
     justify-content: center;
     border: none;
     transition: 0.2s ease;
-    display:none;
 }
 .backtotop:hover{
    opacity: 0.8;
    transition: 0.2s ease;
+}
+#top{
+    display:none;
 }
